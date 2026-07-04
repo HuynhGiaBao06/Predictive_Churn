@@ -25,12 +25,10 @@ ipython_config.py
 # 3. DỮ LIỆU (CSV) & CƠ SỞ DỮ LIỆU (SQL)
 # ===================================================
 # Bỏ qua dữ liệu thô hoặc dữ liệu đã qua xử lý
-*.csv
 *.tsv
 *.xlsx
 *.xls
 *.json
-data/
 
 # Bỏ qua các file cơ sở dữ liệu cục bộ (dung lượng lớn)
 *.db
