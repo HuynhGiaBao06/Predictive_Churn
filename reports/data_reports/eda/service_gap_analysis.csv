@@ -1,0 +1,9 @@
+service_feature,OnlineSecurity,total_customers,churn_customers,churn_rate,churn_rate_percent,OnlineBackup,DeviceProtection,TechSupport
+OnlineSecurity,0.0,5024,1574,0.31329617834394907,31.33,,,
+TechSupport,,4999,1559,0.3118623724744949,31.19,,,0.0
+OnlineBackup,,4614,1346,0.2917208495882098,29.17,0.0,,
+DeviceProtection,,4621,1324,0.28651806968188703,28.65,,0.0,
+DeviceProtection,,2422,545,0.2250206440957886,22.5,,1.0,
+OnlineBackup,,2429,523,0.21531494442157267,21.53,1.0,,
+TechSupport,,2044,310,0.15166340508806261,15.17,,,1.0
+OnlineSecurity,1.0,2019,295,0.14611193660227836,14.61,,,

@@ -1,0 +1,32 @@
+feature,coefficient,abs_coefficient,effect
+Dependents_Yes,-1.0611100176197021,1.0611100176197021,Decrease churn probability
+Contract_Label_Two year,-0.9652247505925139,0.9652247505925139,Decrease churn probability
+InternetService_No,-0.8784764783099146,0.8784764783099146,Decrease churn probability
+TotalCharges_Log,-0.7143988871985623,0.7143988871985623,Decrease churn probability
+Contract_Label_Month-to-month,0.6470479006288417,0.6470479006288417,Increase churn probability
+Dependents_No,0.5810725236111475,0.5810725236111475,Increase churn probability
+tenure_group_0-12 months,-0.47578135026703405,0.47578135026703405,Decrease churn probability
+Tenure,-0.4509452371967925,0.4509452371967925,Decrease churn probability
+tenure_group_25-36 months,-0.3877331437282083,0.3877331437282083,Decrease churn probability
+InternetService_Fiber optic,0.36261407626992587,0.36261407626992587,Increase churn probability
+tenure_group_13-24 months,-0.34268808981371973,0.34268808981371973,Decrease churn probability
+MonthlyCharges,0.3358181586646876,0.3358181586646876,Increase churn probability
+monthly_charges_ratio,0.3358181586646868,0.3358181586646868,Increase churn probability
+tenure_group_49-60 months,0.285696895415413,0.285696895415413,Increase churn probability
+tenure_group_61-72 months,0.26761867686340984,0.26761867686340984,Increase churn probability
+PaymentMethod_Mailed check,-0.22369564336849723,0.22369564336849723,Decrease churn probability
+tenure_group_37-48 months,0.17284951752158836,0.17284951752158836,Increase churn probability
+Partner,0.16192395372085425,0.16192395372085425,Increase churn probability
+Contract_Label_One year,-0.16186064404486847,0.16186064404486847,Decrease churn probability
+OnlineSecurity,-0.15707986638784277,0.15707986638784277,Decrease churn probability
+PaymentMethod_Credit card (automatic),-0.1538449694926612,0.1538449694926612,Decrease churn probability
+PaymentMethod_Bank transfer (automatic),-0.15196017967018496,0.15196017967018496,Decrease churn probability
+PaperlessBilling,0.1288752274899159,0.1288752274899159,Increase churn probability
+TechSupport,-0.11693882269327542,0.11693882269327542,Decrease churn probability
+is_paperless_electronic,0.11603055468096403,0.11603055468096403,Increase churn probability
+service_diversity,-0.1036397233412978,0.1036397233412978,Decrease churn probability
+PaymentMethod_Electronic check,0.04946329852279975,0.04946329852279975,Increase churn probability
+OnlineBackup,-0.04897336161720737,0.04897336161720737,Decrease churn probability
+InternetService_DSL,0.035824908031445085,0.035824908031445085,Increase churn probability
+DeviceProtection,0.029899283809845474,0.029899283809845474,Increase churn probability
+SeniorCitizen,0.02464805772310344,0.02464805772310344,Increase churn probability

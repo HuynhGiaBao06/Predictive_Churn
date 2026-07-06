@@ -1,0 +1,17 @@
+Overall churn rate: 26.54%.
+Highest churn segment by Contract Label: Month-to-month with churn rate 42.71% across 3875 customers.
+Highest churn segment by InternetService: Fiber optic with churn rate 41.89% across 3096 customers.
+Highest churn segment by PaymentMethod: Electronic check with churn rate 45.29% across 2365 customers.
+Highest churn segment by PaperlessBilling Label: Yes with churn rate 33.57% across 4171 customers.
+Highest churn segment by SeniorCitizen Label: Yes with churn rate 41.68% across 1142 customers.
+Highest churn segment by Partner Label: No with churn rate 32.96% across 3641 customers.
+Highest churn segment by Dependents: No with churn rate 32.55% across 5416 customers.
+Highest churn segment by OnlineSecurity Label: No with churn rate 31.33% across 5024 customers.
+Highest churn segment by OnlineBackup Label: No with churn rate 29.17% across 4614 customers.
+Highest churn segment by DeviceProtection Label: No with churn rate 28.65% across 4621 customers.
+Highest churn segment by TechSupport Label: No with churn rate 31.19% across 4999 customers.
+Numeric feature comparison by churn status:
+             Tenure  MonthlyCharges  TotalCharges
+Churn_Label                                      
+Churn         17.98           74.44       1531.80
+Non-Churn     37.57           61.27       2549.91

@@ -1,0 +1,3 @@
+Churn_Label,count,mean,median,std,min,max
+Churn,1869,1.15,1.23,0.38,0.29,1.83
+Non-Churn,5174,0.95,0.99,0.48,0.28,1.83

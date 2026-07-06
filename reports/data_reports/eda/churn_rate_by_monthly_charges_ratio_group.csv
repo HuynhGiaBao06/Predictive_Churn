@@ -1,0 +1,5 @@
+monthly_charges_ratio_group,total_customers,churn_customers,churn_rate,churn_rate_percent
+High (1.0-1.2x Avg),1007,348,0.3455809334657398,34.56
+Very High (>1.2x Avg),2916,1007,0.3453360768175583,34.53
+Average (0.8-1.0x Avg),667,110,0.16491754122938532,16.49
+Low (<0.8x Avg),2453,404,0.1646962902568284,16.47

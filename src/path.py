@@ -35,6 +35,9 @@ TEST_DATA_FILE = CHECKPOINT_DATA_DIR/ "test_df.csv"
 # Đường dẫn data_raw (chỉ Bảo dùng)
 DATA_RAW = DATA_DIR / "raw_data"
 DATA_RAW_FILE = DATA_RAW / "raw_data.csv"
+# Đường dẫn data preprocessed
+DATA_PREPROCESSED = DATA_DIR / "preprocessed_data"
+DATA_PREPROCESSED_FILE = DATA_PREPROCESSED / "preprocessed_data.csv"
 # Đường dẫn logger
 LOGGER_DATA_DIR = DATA_DIR / "logger_data"
 LOGGER_DATA_FILE = LOGGER_DATA_DIR/ "logger_data.txt"
